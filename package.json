@@ -1,0 +1,36 @@
+{
+  "name": "my-namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namsaste React by Rajesh K",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuruvarajesh/my-namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "rajesh"
+  ],
+  "author": "Rajesh K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuruvarajesh/my-namaste-react/issues"
+  },
+  "homepage": "https://github.com/kuruvarajesh/my-namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}
